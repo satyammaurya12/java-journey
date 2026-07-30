@@ -8,6 +8,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Associativity & Precedence of java.
   - Data type of Expressions and Increment/Decrement operators.
   - Introduction to string.
+- Day 4 -
+  - if else.
+  - else if ladder.
+  - Switch statement.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
