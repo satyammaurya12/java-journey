@@ -9,6 +9,7 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Data type of Expressions and Increment/Decrement operators.
   - Introduction to string.
 - Day 4 -
+  - String method.
   - if else.
   - else if ladder.
   - Switch statement.
