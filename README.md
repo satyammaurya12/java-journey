@@ -13,6 +13,11 @@ Code. Learn. Improve. Repeat. | My Java journey
   - if else.
   - else if ladder.
   - Switch statement.
+- Day 5 -
+  - While loop
+  - Do While loop
+  - For loop
+  - Break & Continue Statement.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
