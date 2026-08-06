@@ -17,7 +17,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - While loop
   - Do While loop
   - For loop
-  - Break & Continue Statement.
+  - Break & Continue Statement
+  - Introduction to Array
+  - traversal of Array
+  - Display of Array
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
