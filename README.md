@@ -21,6 +21,8 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Introduction to Array
   - traversal of Array
   - Display of Array
+- Day 6 -
+  - Multidimentional Array.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
