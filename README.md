@@ -23,6 +23,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Display of Array
 - Day 6 -
   - Multidimentional Array.
+- Day 7 -
+  - Method
+  - Method Overloading
+  - Variable Arguments.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
