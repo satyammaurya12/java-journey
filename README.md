@@ -27,6 +27,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Method
   - Method Overloading
   - Variable Arguments.
+- Day 8 -
+  - Recursion in Java
+  - Introduction to OOPS
+  - OOPS terminology.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
