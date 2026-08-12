@@ -31,6 +31,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Recursion in Java
   - Introduction to OOPS
   - OOPS terminology.
+- Day 9 -
+  - Access Modifier in Java
+  - Getter and Setter
+  - Constructors in Java.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
