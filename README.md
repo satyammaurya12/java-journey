@@ -35,6 +35,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Access Modifier in Java
   - Getter and Setter
   - Constructors in Java.
+- Day 10 -
+  - Inheritance in Java
+  - Constructors in Inheritance
+  - Understanding "This" and "Super" keywords.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
