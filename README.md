@@ -39,6 +39,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Inheritance in Java
   - Constructors in Inheritance
   - Understanding "This" and "Super" keywords.
+- Day 11 -
+  - Method Overriding
+  - Dynamic Method Dispatch
+  - Abstract Methods & Classses.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
