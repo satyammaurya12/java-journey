@@ -43,6 +43,9 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Method Overriding
   - Dynamic Method Dispatch
   - Abstract Methods & Classses.
+- Day 12 -
+  - Interface
+  - Default Method
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
