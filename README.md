@@ -45,7 +45,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Abstract Methods & Classses.
 - Day 12 -
   - Interface
-  - Default Method
+  - Default Method.
+- Day 13 -
+  - Inheritance in Interface
+  - polymorphism in Interface.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
