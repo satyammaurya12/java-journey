@@ -50,6 +50,9 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Inheritance in Interface
   - polymorphism in Interface.
 - Day 14 - Packages in Java
+- Day 15 - Multithreading in Java
+  - Extendsing thread class
+  - Runnable interface
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
