@@ -58,6 +58,9 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Java thread life cycle
   - Constructor of thread class
   - Thread priorities
+- Day 17 -
+  - Thread Method in java
+  - Error & Exceptions in java
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
