@@ -61,6 +61,12 @@ Code. Learn. Improve. Repeat. | My Java journey
 - Day 17 -
   - Thread Method in java
   - Error & Exceptions in java
+- Day 18 -
+  - Syntax error
+  - Runtime error
+  - logical error
+  - try catch block
+  - handling specific exceptions in java 
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
