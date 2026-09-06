@@ -66,7 +66,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Runtime error
   - logical error
   - try catch block
-  - handling specific exceptions in java 
+  - handling specific exceptions in java
+- Day 19 -
+  - Nested Try-Catch
+  - The Exception Class in Java
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
