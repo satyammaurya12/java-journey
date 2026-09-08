@@ -70,6 +70,9 @@ Code. Learn. Improve. Repeat. | My Java journey
 - Day 19 -
   - Nested Try-Catch
   - The Exception Class in Java
+- Day 20 -
+  - Throw, Throws
+  - Finally block
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
