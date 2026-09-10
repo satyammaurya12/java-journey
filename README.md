@@ -73,6 +73,10 @@ Code. Learn. Improve. Repeat. | My Java journey
 - Day 20 -
   - Throw, Throws
   - Finally block
+- Day 21 -
+  - Collection framework
+  - ArrayList
+  - LinkedList in java 
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
