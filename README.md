@@ -76,7 +76,11 @@ Code. Learn. Improve. Repeat. | My Java journey
 - Day 21 -
   - Collection framework
   - ArrayList
-  - LinkedList in java 
+  - LinkedList in java
+- Day 22 -
+  - Array Deque
+  - Hashing in java
+  - Date & Time in java.
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
