@@ -85,7 +85,10 @@ Code. Learn. Improve. Repeat. | My Java journey
   - Date class
   - Calendar class
   - Gregorian calendar class
-  - Java time package in java 
+  - Java time package in java
+- Day 24 -
+  - Date Time Formatter
+  - Annotation in Java
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
