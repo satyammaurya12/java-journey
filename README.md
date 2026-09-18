@@ -89,6 +89,10 @@ Code. Learn. Improve. Repeat. | My Java journey
 - Day 24 -
   - Date Time Formatter
   - Annotation in Java
+- Day 25 -
+  - Anonymous classes
+  - Lambda Expressions
+  - Generics in Java
   
 ## Goal 
 I am learning Java from basics and uploading my daily practice programs on Github.
